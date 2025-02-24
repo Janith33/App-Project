@@ -1,0 +1,10 @@
+G:\C# practical\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+G:\C# practical\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+G:\C# practical\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+G:\C# practical\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.AssemblyReference.cache
+G:\C# practical\Calculator2\Calculator2\obj\Debug\Calculator2.Form1.resources
+G:\C# practical\Calculator2\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+G:\C# practical\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.cache
+G:\C# practical\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+G:\C# practical\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+G:\C# practical\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
